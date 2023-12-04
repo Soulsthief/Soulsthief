@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Im a software developer, CS student @ UCM and a student at 42Madrid.<br>Since an early age i was drawn to computers and technology and as such i like learning every day new things and technologies and helping other people understand my passion <br>Im always on the look for new and interesting projects and problems :)</p>
+<p align="left">Im a software developer, CS student @ UCM and a student at 42Madrid.<br>Since an early age i was drawn to computers and technology and as such i like learning new things, technologies and helping other people understand my passion <br>Im always on the look for new and interesting projects and problems to solve :)</p>
 
 ###
 
